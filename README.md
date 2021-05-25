@@ -1,4 +1,5 @@
 ### Yup, Gabriel Valin is here. 
+<div>
 <a href="https://twitter.com/gvt3ch">
   <img  alt="Twitter" width="16px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -12,6 +13,7 @@
 <a href="https://gabrielvalin.me">
   <img  alt="Twitter" width="16px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
+  </div>
 
 <hr/>
 
