@@ -22,6 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Valin&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
 <br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
+</p>
 
 ##### *PS* -> The most used languages in my profile don't indicate my skill level in them.
 
