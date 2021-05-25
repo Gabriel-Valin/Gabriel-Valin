@@ -21,7 +21,7 @@
 <hr>
 21y, from Brazil.
 Currently studying Ruby/RoR/React.
-Talk to me: **gabrielvalincontato@gmail.com** or above social buttons.
+Talk to me: **gabrielvalincontato@gmail.com or above social buttons.
 Thx!
 
 <h2 align="center"> Github Statistics </h2>
