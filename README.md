@@ -1,5 +1,7 @@
 ### Yup, Gabriel Valin is here. 
 
+
+
 <div>
     <a target='_blank' href="https://twitter.com/gvt3ch">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -16,6 +18,11 @@
 </div>
 
 ### I'm little backend dev jr.
+<hr>
+21y, from Brazil.
+Currently studying Ruby/RoR/React.
+Talk to me: **gabrielvalincontato@gmail.com** or above social buttons.
+Thx!
 
 <h2 align="center"> Github Statistics </h2>
 
@@ -26,10 +33,6 @@
 
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Valin" alt="ohidurbappy" /> 
-</p>
 
 ##### *PS* -> The most used languages in my profile don't indicate my skill level in them.
 
