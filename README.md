@@ -20,7 +20,7 @@
 ### I'm little backend dev jr.
 <hr>
 21y, from Brazil.
-Currently studying Ruby/RoR/React.
+Currently studying Node/React and Ruby.
 Talk to me: gabrielvalincontato@gmail.com or social buttons above.
 Thx!
 
