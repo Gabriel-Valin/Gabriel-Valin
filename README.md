@@ -20,7 +20,7 @@
 ### I'm little backend dev jr.
 <hr>
 21y, from Brazil.
-Currently studying Node/React and Ruby(enthusiastic).
+Currently studying Node/Backend themes.
 Talk to me: gabrielvalincontato@gmail.com or social buttons above.
 Thx!
 
@@ -34,7 +34,6 @@ Thx!
 
 <br/>
 
-##### *PS* -> The most used languages in my profile don't indicate my skill level in them.
 
 
 
