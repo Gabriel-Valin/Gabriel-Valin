@@ -17,7 +17,7 @@
     </a>
 </div>
 
-### I'm little backend dev jr.
+### I'm backend developer.
 <hr>
 21y, from Brazil.
 Currently studying Node/Backend themes.
