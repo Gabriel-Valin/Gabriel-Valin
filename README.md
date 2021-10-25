@@ -12,7 +12,7 @@
     <a target='_blank' href="hhttps://www.linkedin.com/in/gabriel-valin-1759801aa/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://gabrielvalin.me">
+    <a target='_blank' href="https://dev.to/gvt3ch">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </div>
