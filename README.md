@@ -1,4 +1,4 @@
-### Yup, Gabriel Valin is here. 
+### Gabriel, here.
 
 
 
@@ -17,11 +17,11 @@
     </a>
 </div>
 
-### I'm backend developer.
+### fullstack developer.
 <hr>
-21y, from Brazil.
-Currently studying Node/Backend themes.
-Talk to me: gabrielvalincontato@gmail.com or social buttons above.
+22y, from Brazil.
+main stack: js/ts, react, nodejs & php.
+Talk to me: gabrielvalincontato@gmail.com or social buttons.
 Thx!
 
 <h2 align="center"> Github Statistics </h2>
