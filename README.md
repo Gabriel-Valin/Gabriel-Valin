@@ -1,39 +1,71 @@
-### Gabriel, here.
+# USE CASE: README by Gabriel Valin
 
+> ## Data
+* Request Fake People to get his informations.
+* Code: 
+```
+axios.get('https://fake-people.com/gabriel-valin')
+  .then((response) => {
+    console.log(response.data);
+  });
+```
+> ## Output
+```
+{
+  firstName: 'gabriel',
+  lastName: 'valin',
+  dateBorn: "1999-07-30",
+  nationality: "Brazilian",
+  favoriteLang: "Javascript/Typescript",
+  stack: ["Node.JS", "React", "React Native", "Laravel"],
+  contact: {
+    email: "gabrielvalincontato@gmail.com",
+    linkedin: "https://www.linkedin.com/in/gabriel-valin-dev/",
+    twitter: "@gvt3ch"
+  }
+}
+```
 
+> ## Student Data Access
 
-<div>
-    <a target='_blank' href="https://twitter.com/gvt3ch">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.instagram.com/gabrielvalin.dev/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="hhttps://www.linkedin.com/in/gabriel-valin-1759801aa/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/gvt3ch">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
+```
+class StudentRepository {
+  constructor (private readonly entity: Entity<Student>) {}
+
+  public async (name: string) {
+    const findStudent = await this.entity.find(name)
+
+    if (!findStudent) return new NoContentError();
+
+    return {
+      student: true,
+      college: "Faculdade de Tecnologia de Botucatu - FATEC"
+    }
+  }
+}
+```
+
+> ## Component Profile
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <img style="border-radius: 50%" src="https://pbs.twimg.com/profile_images/1522262022171332609/PS9NScRu_400x400.jpg">
+  <div align="left">
+    <strong>Name: </strong> <p>Gabriel Valin</p>
+    <strong>Date Born: </strong> <p>30/07/1999</p>
+    <strong>Email: </strong> <p>gabrielvalincontato@gmail.com</p>
+    <strong>Nationality: </strong> <p>Brazilian 🇧🇷</p>
+    <strong>College: </strong><p>Faculdade de Tecnologia de Botucatu - FATEC</p>
+  </div>
 </div>
 
-### fullstack developer.
-<hr>
-22y, from Brazil.
-main stack: js/ts, react, nodejs & php.
-Talk to me: gabrielvalincontato@gmail.com or social buttons.
-Thx!
-
-<h2 align="center"> Github Statistics </h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Valin&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</p>
-<br/>
-
-
-<br/>
-
-
-
-
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/gabriel-valin-dev/">
+    <img width="60px" height="60px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">
+  </a>
+  <a href="https://twitter.com/gvt3ch" style="margin: 80px 20px 0 20px">
+   <img width="60px" height="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
+  </a>
+  <a href="https://gabrielvalin-dev.vercel.app">
+    <img width="60px" height="60px" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/180x180.png">
+  </a> 
+</div>
