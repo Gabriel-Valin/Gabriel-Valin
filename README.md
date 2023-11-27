@@ -1,7 +1,5 @@
-I'm tired for write somethings about me here.
-But...
-I have many projects including web, mobile, shellscript, databasem, operational system, etc...
+if u wanna know about me, contact me
+i dont have patience to write a beauty readme
+but i have patience to talk about my work, skills and life
 
-**Currently i using Azure, then i dont have many commits here**
-
-Writing code.. Writing code everytime and everyday =)
+remember that code is just code but business is the world
