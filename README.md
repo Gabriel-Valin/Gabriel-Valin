@@ -1,8 +1,10 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Gabriel-Valin&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Valin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Valin&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://buymeacoffee.com/gabrielvalin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-</p>
+### Hello there.
+
+#### A Software Engineer by day and a Gym Enthusiast at night ☾
+
+Software Engineer @ [LinkedIn Profile](https://www.linkedin.com/in/gabriel-valin-dev);<br>
+Contact Me direct @ gabrielvalincontato@gmail.com
+
+- ⚙️ I use daily: `.ts`, `.js`, `.go`, `.sh`, `.tsx`
+- 🌍 I'm mostly active within the **NodeJS Community**
+- 💬 `ping` me about **work**, **networking**, **nodejs**, **development**, **communities**
