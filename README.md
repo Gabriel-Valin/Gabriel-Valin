@@ -1,6 +1,6 @@
 ### Hello there.
 
-#### A Software Engineer by day and a Gym Enthusiast at night ☾
+#### A Software Engineer.
 
 Software Engineer @ [LinkedIn Profile](https://www.linkedin.com/in/gabriel-valin-dev);<br>
 Contact Me direct @ gabrielvalincontato@gmail.com
